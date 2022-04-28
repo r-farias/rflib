@@ -10,6 +10,7 @@ Please describe the tests that you ran to verify your changes. Please also note 
 
 - [ ] Test A
 - [ ] Test B
+- [ ] Test C
 
 # Checklist:
 
